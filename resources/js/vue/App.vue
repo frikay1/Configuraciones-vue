@@ -1,9 +1,9 @@
 <template lang="">
     <div>
         <h1>
-            Principal 
+          Encuesta-minicipal
         </h1>
-<list>
+        <List />
     </div>
 </template>
 <script>
@@ -17,3 +17,6 @@ export default{
 }
 
 </script>
+<style>
+
+</style>

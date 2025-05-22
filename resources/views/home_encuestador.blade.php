@@ -3,12 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>s</title>
-   
+    <title>Document</title>
 </head>
 <body>
+    <h1>Bienvenido encuestador </h1>
     
-    <div id="app"></div>
-     @vite(['resources\js\vue\main.js'])
 </body>
 </html>
